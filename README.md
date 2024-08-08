@@ -1,1 +1,1 @@
-🔗 http://creed.lol/
+🔗 https://creed.lol/
