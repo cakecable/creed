@@ -329,7 +329,7 @@
             #image01 .frame {
                 width: 9rem;
                 border-radius: 100%;
-                box-shadow: 0rem 0rem 10rem 0rem #b3b1b1;
+                box-shadow: 0rem 0rem 10rem 0rem #ffffff;
                 transition: transform 0.5s ease, z-index 0.5s ease;
             }
 
@@ -351,7 +351,25 @@
             h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 strong, h3 strong, p strong, h1 a, h2 a, h3 a, p a, h1 code, h2 code, h3 code, p code, h1 mark, h2 mark, h3 mark, p mark, h1 spoiler-text, h2 spoiler-text, h3 spoiler-text, p spoiler-text {
                 -webkit-text-fill-color: currentcolor;
             }
+            #redirrrects {
+                text-align: center;
+                font-size: 1.3em;
+                line-height: 1.5;
+                font-weight: 500;
+            }
 
+            #redirrrects a {
+                text-decoration: underline;
+            }
+
+            #redirrrects a:hover {
+                text-decoration: none;
+            }
+
+            #redirrrects span.p:nth-child(n + 2) {
+                margin-top: 1rem;
+            }
+            
             #text01 {
                 text-align: center;
                 color: #C4C4C4;
@@ -1005,15 +1023,23 @@
                 }
             }
        </style>
-       <div id="image01" class="image">
-         <span class="frame">
+       <div id="wrapper">
+            <div id="main">
+                <div class="inner">
+                    <div id="container01" class="container default">
+                        <div class="wrapper">
+                            <div class="inner">
+                                <div id="image01" class="image">
+                                    <span class="frame">
            <img src="https://cdn.discordapp.com/avatars/1268692742771441747/883ac172073922579ebaf9d0f0cd2b79.png?size=1024" alt=""/>
            </span>
            </div>
+           <h1 id="text01">
+             <strong>creed</strong>
+             </h1>
+           </div>
        <main>
-      <div class="container"><h1>creed</h1><div class="redirects">
-        <ul class="vertical-align">
-          <p id=redirrects>
+          <p id=redirrrects>
           <a href="https://creed.lol/help" style="color: #ffffff">
             <strong>commands</strong>
           </a>
