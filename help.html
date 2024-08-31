@@ -19,6 +19,12 @@
         <link rel="stylesheet" href="style.css">
   </head>
   <style type="text/css">
+    body, html {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
     .navbar {
       background: black;
       font-family: Calibri;
@@ -26,7 +32,8 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      border-bottom: 2.4px solid grey;
+      width: 100%; 
+      border-bottom: 2px solid grey; 
     }
 
     .nav-left {
@@ -35,11 +42,11 @@
     }
 
     .nav-left img {
-      margin-right: 10px;
+      margin-right: 10px; 
     }
 
     .logo a {
-      font-size: 25px; 
+      font-size: 28px; 
       font-weight: 600; 
       color: white;
       text-decoration: none;
@@ -47,9 +54,8 @@
       letter-spacing: 0.1px; 
       transition: transform 0.3s ease; 
     }
-
     .logo a:hover {
-      transform: scale(1.2);
+      transform: scale(1.2); 
     }
 
     .nav-right ul {
@@ -85,7 +91,7 @@
       <div class="nav-right">
         <ul>
           <li><a href="https://creed.lol">home</a></li>
-          <li><a href="https://creed.lol">documents</a></li>
+          <li><a href="https://creed.lol">commands</a></li>
           <li><a href="https://creed.lol">developer</a></li>
           <li><a href="https://creed.lol">invite</a></li>
         </ul>
