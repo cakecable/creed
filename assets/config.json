@@ -70,7 +70,7 @@
 
         {
             "name": "windows",
-            "tag": "#HOLY",
+            "tag": "",
             "badge": "inner circle",
             "icon": "/assets/img/members/windows.png",
             "socials": {
