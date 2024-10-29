@@ -76,7 +76,6 @@
             "socials": {
                 "roblox": "7011631139",
                 "discord": "518833554524995584",
-                "discordserver": "imari"
             },
             "bg": "windows.jpg",
             "mbg": ".png",
@@ -92,8 +91,8 @@
         
         {
             "name": "Clamps",
-            "tag": "",
-            "badge": "inner circle",
+            "tag": "#OT",
+            "badge": "member",
             "icon": "/assets/img/members/windows.png",
             "socials": {
                 "roblox": "7011631139",
