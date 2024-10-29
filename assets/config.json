@@ -89,27 +89,6 @@
                 "text": "#fff"
             }
         },
-        
-        {
-            "name": "Clamps",
-            "tag": "#0001",
-            "badge": "member",
-            "icon": "/assets/img/members/windows.png",
-            "socials": {
-                "roblox": "7011631139",
-                "discord": "518833554524995584",
-            },
-            "bg": "windows.jpg",
-            "mbg": ".png",
-            "song": "windows.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        },
 
 
     ],
