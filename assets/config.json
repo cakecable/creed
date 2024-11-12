@@ -89,11 +89,11 @@
                 "text": "#fff"
             }
         }
-    
+
 
 
     ],
-    
+
     "config": {
 
         "discord": "https://discord.gg/stupid",
@@ -169,7 +169,7 @@
                 "icon": "assets/img/platforms/twitch.svg",
                 "link": "https://twitch.com/"
             }
-            
+
         }
 
     }
