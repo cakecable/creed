@@ -1,0 +1,156 @@
+{
+
+
+    "profiles": [
+
+        {
+            "name": "cake",
+            "tag": "#DUMB",
+            "badge": "owner",
+            "icon": "/assets/img/members/cake.webp",
+            "socials": {
+                "github": "cakecable",
+                "roblox": "178248663",
+                "discord": "1078313475727691787"
+            },
+            "bg": "cake.jpg",
+            "mbg": ".png",
+            "song": "cake.mp3",
+            "theme": {
+                "bgcolor": {
+                    "color1" : "#000",
+                    "color2" : "#010101"
+                },
+                "text": "#fff"
+            }
+        },
+
+        {
+            "name": "piam",
+            "tag": "#SRT",
+            "badge": "developer",
+            "icon": "/assets/img/members/piam.png",
+            "socials": {
+                "tiktok": "piaamm",
+                "discord": "610140494697332766"
+            },
+            "bg": "piam.png",
+            "mbg": ".png",
+            "song": "piam.mp3",
+            "theme": {
+                "bgcolor": {
+                    "color1" : "#000",
+                    "color2" : "#010101"
+                },
+                "text": "#fff"
+            }
+        },
+
+        {
+            "name": "kyrin",
+            "tag": "#HOLY",
+            "badge": "inner circle",
+            "icon": "/assets/img/members/kyrin.webp",
+            "socials": {
+                "roblox": "31846842",
+                "discord": "444134559194546177",
+                "instagram": "clradam"
+            },
+            "bg": "kyrin.jpg",
+            "mbg": ".png",
+            "song": "kyrin.mp3",
+            "theme": {
+                "bgcolor": {
+                    "color1" : "#000",
+                    "color2" : "#010101"
+                },
+                "text": "#fff"
+            }
+        }
+
+
+
+    ],
+    
+    "config": {
+
+        "discord": "https://discord.gg/stupid",
+
+        "platforms": {
+
+            "instagram": {
+                "icon": "assets/img/platforms/instagram.svg",
+                "link": "https://instagram.com/"
+            },
+
+            "discord": {
+                "icon": "assets/img/platforms/discord.svg",
+                "link": "https://discordapp.com/users/"
+            },
+
+            "discordserver": {
+                "icon": "assets/img/platforms/discord.svg",
+                "link": "https://discord.gg/"
+            },
+
+            "tiktok": {
+                "icon": "assets/img/platforms/tiktok.svg",
+                "link": "https://tiktok.com/@"
+            },
+
+            "twitter": {
+                "icon": "assets/img/platforms/twitter.svg",
+                "link": "https://twitter.com/"
+            },
+
+            "ogu": {
+                "icon": "assets/img/platforms/ogu.svg",
+                "link": "https://ogu.gg/"
+            },
+
+            "telegram": {
+                "icon": "assets/img/platforms/telegram.svg",
+                "link": "https://t.me/"
+            },
+
+            "github": {
+                "icon": "assets/img/platforms/github.svg",
+                "link": "https://github.com/"
+            },
+
+            "namemc": {
+                "icon": "assets/img/platforms/namemc.svg",
+                "link": "https://namemc.com/profile/"
+            },
+
+            "roblox": {
+                "icon": "assets/img/platforms/roblox.svg",
+                "link": "https://roblox.com/users/"
+            },
+
+            "soundcloud": {
+                "icon": "assets/img/platforms/soundcloud.svg",
+                "link": "https://www.soundcloud.com/"
+            },
+
+            "spotify": {
+                "icon": "assets/img/platforms/spotify.svg",
+                "link": "https://open.spotify.com/user/"
+            },
+
+            "steam": {
+                "icon": "assets/img/platforms/steam.svg",
+                "link": "https://steamcommunity.com/id/"
+            },
+
+            "twitch": {
+                "icon": "assets/img/platforms/twitch.svg",
+                "link": "https://twitch.com/"
+            }
+            
+        }
+
+    }
+
+
+}
