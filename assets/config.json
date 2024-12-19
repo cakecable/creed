@@ -47,6 +47,27 @@
         },
 
         {
+            "name": "piam",
+            "tag": "#SRT",
+            "badge": "developer",
+            "icon": "/assets/img/members/piam.png",
+            "socials": {
+                "tiktok": "piaamm",
+                "discord": "610140494697332766"
+            },
+            "bg": "piam.png",
+            "mbg": ".png",
+            "song": "piam.mp3",
+            "theme": {
+                "bgcolor": {
+                    "color1" : "#000",
+                    "color2" : "#010101"
+                },
+                "text": "#fff"
+            }
+        },
+
+        {
             "name": "kyrin",
             "tag": "#HOLY",
             "badge": "inner circle",
