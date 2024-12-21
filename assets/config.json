@@ -45,50 +45,7 @@
                 "text": "#fff"
             }
         },
-
-        {
-            "name": "windows",
-            "tag": "#IMARI",
-            "badge": "inner circle",
-            "icon": "/assets/img/members/windows.png",
-            "socials": {
-                "roblox": "7011631139",
-                "discord": "518833554524995584"
-                "discordserver": "imari"
-            },
-            "bg": "windows.jpg",
-            "mbg": ".png",
-            "song": "piam.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        },
         
-        {
-            "name": "Clamps",
-            "tag": "#OG",
-            "badge": "member",
-            "icon": "/assets/img/members/clamps.png",
-            "socials": {
-                "roblox": "piaamm",
-                "discord": "610140494697332766"
-            },
-            "bg": "clamps.jpg",
-            "mbg": ".png",
-            "song": "piam.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        },
-
         {
             "name": "kyrin",
             "tag": "#HOLY",
