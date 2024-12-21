@@ -47,10 +47,31 @@
         },
 
         {
-            "name": "piam",
-            "tag": "#SRT",
-            "badge": "developer",
-            "icon": "/assets/img/members/piam.png",
+            "name": "windows",
+            "tag": "#IMARI",
+            "badge": "inner circle",
+            "icon": "/assets/img/members/windows.png",
+            "socials": {
+                "tiktok": "piaamm",
+                "discord": "610140494697332766"
+            },
+            "bg": "piam.png",
+            "mbg": ".png",
+            "song": "piam.mp3",
+            "theme": {
+                "bgcolor": {
+                    "color1" : "#000",
+                    "color2" : "#010101"
+                },
+                "text": "#fff"
+            }
+        },
+        
+        {
+            "name": "Clamps",
+            "tag": "#OG",
+            "badge": "member",
+            "icon": "/assets/img/members/clamps.png",
             "socials": {
                 "tiktok": "piaamm",
                 "discord": "610140494697332766"
