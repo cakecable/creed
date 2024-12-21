@@ -52,10 +52,11 @@
             "badge": "inner circle",
             "icon": "/assets/img/members/windows.png",
             "socials": {
-                "tiktok": "piaamm",
-                "discord": "610140494697332766"
+                "roblox": "7011631139",
+                "discord": "518833554524995584"
+                "discordserver": "imari"
             },
-            "bg": "piam.png",
+            "bg": "windows.jpg",
             "mbg": ".png",
             "song": "piam.mp3",
             "theme": {
@@ -73,10 +74,10 @@
             "badge": "member",
             "icon": "/assets/img/members/clamps.png",
             "socials": {
-                "tiktok": "piaamm",
+                "roblox": "piaamm",
                 "discord": "610140494697332766"
             },
-            "bg": "piam.png",
+            "bg": "clamps.jpg",
             "mbg": ".png",
             "song": "piam.mp3",
             "theme": {
